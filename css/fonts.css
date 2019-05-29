@@ -1,0 +1,138 @@
+/* ===================================================================
+ * fonts.scss)
+ *
+ * ------------------------------------------------------------------- */
+ 
+/*
+ * Libre Baskerville 
+================================================================================ */
+@font-face {
+  font-family: "librebaskerville-regular";
+  src: url("../fonts/librebaskerville/librebaskerville-regular-webfont.woff2") format("woff2"), url("../fonts/librebaskerville/librebaskerville-regular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "librebaskerville-italic";
+  src: url("../fonts/librebaskerville/librebaskerville-italic-webfont.woff2") format("woff2"), url("../fonts/librebaskerville/librebaskerville-italic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "librebaskerville-bold";
+  src: url("../fonts/librebaskerville/librebaskerville-bold-webfont.woff2") format("woff2"), url("../fonts/librebaskerville/librebaskerville-bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+/*
+ * bebas
+================================================================================ */
+
+
+
+
+@font-face {
+    
+font-family: 'bebas_neueregular';
+    
+src: url('../fonts/Bebas-Neue-master/bebasneue-regular-webfont.woff2') format('woff2'),
+ url('../fonts/Bebas-Neue-master/bebasneue-regular-webfont.woff') format('woff');
+    
+font-weight: normal;
+    
+font-style: normal;
+
+
+}
+
+
+
+
+
+@font-face {
+font-family: 'bebas_neuebook';
+    
+src: url('../fonts/Bebas-Neue-master/bebas_book/bebasneue-book-webfont.woff2') format('woff2'),
+         
+url('../fonts/Bebas-Neue-master/bebas_book/bebasneue-book-webfont.woff') format('woff');
+    
+font-weight: normal;
+    
+font-style: normal;
+
+
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'bebas_neuelight';
+    
+src: url('../fonts/Bebas-Neue-master/bebas_light/bebasneue-light-webfont.woff2') format('woff2'),
+        
+url('../fonts/Bebas-Neue-master/bebas_light/bebasneue-light-webfont.woff') format('woff');
+    
+font-weight: normal;
+    
+font-style: normal;
+
+
+}
+
+
+
+
+
+@font-face {
+    font-family: 'bebas_neuethin';
+    
+src: url('../fonts/Bebas-Neue-master/bebas_thin/bebasneue-thin-webfont.woff2') format('woff2'),
+         
+url('../fonts/Bebas-Neue-master/bebas_thin/bebasneue-thin-webfont.woff') format('woff');
+    
+font-weight: normal;
+    
+font-style: normal;
+
+
+}
+
+
+
+
+
+@font-face {
+    font-family: 'arimoregular';
+    
+src: url('../fonts/arimo/arimo_regular/arimo-regular-webfont.woff2') format('woff2'),
+         
+url('../fonts/arimo/arimo_regular/arimo-regular-webfont.woff') format('woff');
+    
+font-weight: normal;
+    
+font-style: normal;
+
+
+}
+
+
+
+
+/*
+ * Montserrat
+================================================================================ */
+@font-face {
+  font-family: "montserrat-regular";
+  src: url("../fonts/montserrat/montserrat-regular-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-regular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "montserrat-bold";
+  src: url("../fonts/montserrat/montserrat-bold-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
